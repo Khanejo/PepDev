@@ -53,5 +53,38 @@
         "price": "2.00",
         "organic": false,
         "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+    },
+    {
+        "id": 5,
+        "productName": "Sweet Chocolate",
+        "image": "🌽",
+        "from": "Great Britain",
+        "nutrients": "Vitamin D, Potasssium",
+        "quantity": "8 🌽",
+        "price": "88.00",
+        "organic": false,
+        "description": "Sweet in taste and children likes it"
+    },
+    {
+        "id": 6,
+        "productName": "Blue Berries",
+        "image": "🌽",
+        "from": "Ukanda",
+        "nutrients": "Vitamin A, Zinc",
+        "quantity": "23 🌽",
+        "price": "8.00",
+        "organic": True,
+        "description": "Brought to you from great hills of avamba , greatly known as 'Fruit of Heaven' by local people of europe "
+    },
+    {
+        "id": 7,
+        "productName": "Baracuda fruit",
+        "image": "🌽",
+        "from": "Istanbul",
+        "nutrients": "Vitamin K, Calcium",
+        "quantity": "32 🌽",
+        "price": "23.00",
+        "organic": false,
+        "description": " Fruit high in protein , can be said as enriched pure protein food,is said to be great for kidneys"
     }
 ]
